@@ -1,4 +1,4 @@
-# Rick and Morty Blog
+# Simple Counter
 <img src="./src/img/thumbnail.png" />
 
 ## FAQ
